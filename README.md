@@ -1,10 +1,10 @@
 # Heroku + Flask + Repl.it
+Desplegaremos una aplicación web en Heroku utilizando Flask y Replit
 
-[Tutorial Youtube](https://youtu.be/im9A_Q5qOJg)
-[Repl.it](https://repl.it)
-[Heroku](https://heroku.com)
-
-Desplegaremos una aplicación web en Heroku utilizando Flask y Repl.it
+## Recursos
+- [Repl.it](https://repl.it) y [Heroku](https://heroku.com)
+- Tutorial Youtube: https://youtu.be/im9A_Q5qOJg
+- Demo aplicación desplegada: https://tutorial-heroku-flask.herokuapp.com/
 
 ## Comandos Usados
 
