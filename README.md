@@ -9,8 +9,6 @@ wget https://cli-assets.heroku.com/heroku-linux-x64.tar.gz
 
 tar -zxf heroku-linux-x64.tar.gz
 
-./heroku login
-
 ./../heroku/bin/heroku create SUDOMINIO  --buildpack heroku/python
 
 ./../heroku/bin/heroku login -i
